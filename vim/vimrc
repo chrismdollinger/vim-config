@@ -1,0 +1,3 @@
+source $VIMRUNTIME/defaults.vim
+
+set expandtab autoindent softtabstop=4 shiftwidth=4
